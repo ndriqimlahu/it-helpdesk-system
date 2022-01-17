@@ -43,12 +43,12 @@
 
 The project called `IT Helpdesk System` is an software engineering project which aims to automate the process of asking customers questions and answering them within the shortest possible time through this software. The software should provide an interactive user interface along with a database for storing data. Users should also have different access to the system based on the privileges they possess in order to meet the needs of both the administrative side and the users. So the purpose of this software is to provide quality, secure, and sophisticated service to companies's equipment. In this software engineering project you can see different roles which are “Super Admin”, “System User”, “Client” and “Users”.
 
-This project started from scratch where I worked and completed, also I made some improvements in the back-end side of Software Engineering, such as creating the Use Case Diagram for entire system, creating the Use Case Description by explaining the use cases in more details, creating of the Class Diagram for use cases, creating of the Activity Diagrams for flow system, creating of the Sequence Diagrams for use cases, creating of the State Diagrams, creating of the CRUDE Analysis (CRUDE Matrix) table, creating of the Visual Presentation (GUI) for software system and many more things.
+This project started from scratch where I worked and completed, also I made some improvements in the Software Engineering, such as creating the Use Case Diagram for entire system, creating the Use Case Description by explaining the use cases in more details, creating of the Class Diagram for use cases, creating of the Activity Diagrams for flow system, creating of the Sequence Diagrams for use cases, creating of the State Diagrams, creating of the CRUDE Analysis (CRUDE Matrix) table, creating of the Visual Presentation (GUI) for software system and many more things.
 
 
 ### Built With
 
-This software engineering project is based on Technologies like below:
+This software engineering project is based on technologies like below:
 
 * Enterprise Architect
 * Adobe XD
