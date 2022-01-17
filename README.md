@@ -52,8 +52,8 @@ This software engineering project is based on Technologies like below:
 
 * Enterprise Architect
 * Adobe XD
-* Word
-* Excel
+* Microsoft Word
+* Microsoft Excel
 
 
 <!-- GETTING STARTED -->
@@ -64,7 +64,7 @@ By getting started with the project, first you need to take a look at the requir
 
 ### Prerequisites
 
-In order to open this software project is required to have an Visual Modeling and Design Tool (Enterprise Architect), an UI/UX Design Tool (Adobe XD) and an Office Pack (Word & Excel).
+In order to open this software project is required to have an Visual Modeling and Design Tool (Enterprise Architect), an UI/UX Design Tool (Adobe XD) and an Office Pack (Microsoft Word & Microsoft Excel).
 
 
 ### Installation
