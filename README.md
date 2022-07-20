@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/ndriqimlahu/NdriqimLahuPortfolio/blob/main/assets/portfolio/IT-HelpdeskSystem.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/IT-HelpdeskSystem.png" alt="Logo" width="250" height="250">
   <h3 align="center">IT Helpdesk System</h3>
   <p align="center">
     Ndriçim Lahu
@@ -71,7 +71,7 @@ In order to open this software project is required to have an Visual Modeling an
 
 1. Download the code or Clone the repo:
    ```terminal
-   git clone https://github.com/ndriqimlahu/IT-HelpdeskSystem.git
+   git clone https://github.com/ndriqimlahu/it-helpdesk-system.git
    ```
 2. Open the repo folder and explore into `Diagrams` & `Files` folder.
 3. After that select one of the tools mentioned above and use them to open the software project by choosing the `.eapx`, `.xd`, `.docx` and `.xlsx` files.
