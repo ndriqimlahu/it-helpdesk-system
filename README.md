@@ -95,10 +95,10 @@ There you can see some useful additional screenshots of how the project looks li
 <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.2-Activity%20Diagram%202.png">
 
 * Sequence Diagram (Actor 1)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.1-Sequence%20Diagram-Login%20and%20Logout.png">
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.1-Sequence%20Diagram-Actor%201.png">
 
 * Sequence Diagram (Actor 2)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.2-Sequence%20Diagram-Update%20the%20Profile%20and%20Change%20Password.jpg">
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.2-Sequence%20Diagram-Actor%202.png">
 
 * Sequence Diagram (Super Admin)
 <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.3-Sequence%20Diagram-Super%20Admin.png">
