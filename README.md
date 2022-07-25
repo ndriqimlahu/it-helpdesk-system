@@ -82,29 +82,74 @@ In order to open this software project is required to have an Visual Modeling an
 
 There you can see some useful additional screenshots of how the project looks like and how can be used.
 
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/01-Use%20Case%20Diagram.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/02-Class%20Diagram.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/03.1-Activity%20Diagram%201.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/03.2-Activity%20Diagram%202.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/04.1-Sequence%20Diagram-Login%20and%20Logout.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/04.2-Sequence%20Diagram-Update%20the%20Profile%20and%20Change%20Password.jpg">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/04.3-Sequence%20Diagram-Super%20Admin.png">
-<img src=""https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/04.4-Sequence%20Diagram-System%20User.png>
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/04.5-Sequence%20Diagram-Client.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/04.6-Sequence%20Diagram-Users.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/05.1-State%20Diagram-Users.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/05.2-State%20Diagram-Tickets.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/05.3-State%20Diagram-Issues.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/06-CRUDE%20Analysis-CRUDE%20Matrix.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.1-Visual%20Presentation%20GUI-Homepage.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.2-Visual%20Presentation%20GUI-Select%20Categories.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.3-Visual%20Presentation%20GUI-Clients.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.4-Visual%20Presentation%20GUI-Tickets.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.5-Visual%20Presentation%20GUI-Issues.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.6-Visual%20Presentation%20GUI-Reports.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.7-Visual%20Presentation%20GUI-FAQs.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.8-Visual%20Presentation%20GUI-Setup.png">
-<img src="https://github.com/ndriqimlahu/it-helpdesk-system/blob/main/Preview/07.9-Visual%20Presentation%20GUI-Check%20Submit.png">
+* Use Case Diagram
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/01-Use%20Case%20Diagram.png">
+
+* Class Diagram
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/02-Class%20Diagram.png">
+
+* Activity Diagram 1
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.1-Activity%20Diagram%201.png">
+
+* Activity Diagram 2
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.2-Activity%20Diagram%202.png">
+
+* Sequence Diagram (Actor 1)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.1-Sequence%20Diagram-Login%20and%20Logout.png">
+
+* Sequence Diagram (Actor 2)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.2-Sequence%20Diagram-Update%20the%20Profile%20and%20Change%20Password.jpg">
+
+* Sequence Diagram (Super Admin)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.3-Sequence%20Diagram-Super%20Admin.png">
+
+* Sequence Diagram (System User)
+<img src=""https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.4-Sequence%20Diagram-System%20User.png>
+
+* Sequence Diagram (Client)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.5-Sequence%20Diagram-Client.png">
+
+* Sequence Diagram (Users)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.6-Sequence%20Diagram-Users.png">
+
+* State Diagram (Users)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.1-State%20Diagram-Users.png">
+
+* State Diagram (Tickets)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.2-State%20Diagram-Tickets.png">
+
+* State Diagram (Issues)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.3-State%20Diagram-Issues.png">
+
+* CRUDE Analysis (CRUDE Matrix)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/06-CRUDE%20Analysis-CRUDE%20Matrix.png">
+
+* Visual Presentation GUI (Home page)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.1-Visual%20Presentation%20GUI-Homepage.png">
+
+* Visual Presentation GUI (Select Categories)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.2-Visual%20Presentation%20GUI-Select%20Categories.png">
+
+* Visual Presentation GUI (Clients)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.3-Visual%20Presentation%20GUI-Clients.png">
+
+* Visual Presentation GUI (Tickets)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.4-Visual%20Presentation%20GUI-Tickets.png">
+
+* Visual Presentation GUI (Issues)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.5-Visual%20Presentation%20GUI-Issues.png">
+
+* Visual Presentation GUI (Reports)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.6-Visual%20Presentation%20GUI-Reports.png">
+
+* Visual Presentation GUI (FAQs)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.7-Visual%20Presentation%20GUI-FAQs.png">
+
+* Visual Presentation GUI (Setup)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.8-Visual%20Presentation%20GUI-Setup.png">
+
+* Visual Presentation GUI (Check Submit)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.9-Visual%20Presentation%20GUI-Check%20Submit.png">
 
 
 <!-- COPYRIGHT -->
