@@ -104,7 +104,7 @@ There you can see some useful additional screenshots of how the project looks li
 <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.3-Sequence%20Diagram-Super%20Admin.png">
 
 * Sequence Diagram (System User)
-<img src=""https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.4-Sequence%20Diagram-System%20User.png>
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.4-Sequence%20Diagram-System%20User.png">
 
 * Sequence Diagram (Client)
 <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.5-Sequence%20Diagram-Client.png">
