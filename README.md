@@ -1,168 +1,143 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/IT-HelpdeskSystem.png" alt="Logo" width="250" height="250">
-  <h3 align="center">IT Helpdesk System</h3>
-  <p align="center">
-    Ndriçim Lahu
-    <br>
-    <br>
-    <a href="https://github.com/ndriqimlahu/it-helpdesk-system/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ndriqimlahu/it-helpdesk-system/issues">Request Feature</a>
-  </p>
-</p>
+# IT Helpdesk System
 
+**IT Helpdesk System** is a software engineering project designed to streamline IT support services. The system simplifies client request handling, issue tracking, reporting, and provides a self-service knowledge base through FAQs. With features like categorized issue tracking, ticket management, and detailed reporting, it ensures efficient workflows for IT teams and enhances the client experience.
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#support">Support</a></li>
-  </ol>
-</details>
+This project enables effective management of IT helpdesk tickets, categorizes issues, and provides clients with an easy process for submitting and tracking tickets. It includes features for both support agents and system administrators, allowing them to manage and resolve IT issues efficiently. The project incorporates UML diagrams (Use Case, Class, Activity, Sequence, and State Diagrams), CRUDE Analysis, Requirements Analysis, Use Case Descriptions, and a visual GUI design.
 
+## Built With
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-The project called `IT Helpdesk System` is an software engineering project which aims to automate the process of asking customers questions and answering them within the shortest possible time through this software. The software should provide an interactive user interface along with a database for storing data. Users should also have different access to the system based on the privileges they possess in order to meet the needs of both the administrative side and the users. So the purpose of this software is to provide quality, secure, and sophisticated service to companies's equipment. In this software engineering project you can see different roles which are “Super Admin”, “System User”, “Client” and “Users”.
-
-This project started from scratch where I worked and completed, also I made some improvements in the Software Engineering, such as creating the Use Case Diagram for entire system, creating the Use Case Description by explaining the use cases in more details, creating of the Class Diagram for use cases, creating of the Activity Diagrams for flow system, creating of the Sequence Diagrams for use cases, creating of the State Diagrams, creating of the CRUDE Analysis (CRUDE Matrix) table, creating of the Visual Presentation (GUI) for software system and many more things.
-
-
-### Built With
-
-This software engineering project is based on technologies like below:
-
+This software engineering project was created using the following tools:
 * Enterprise Architect
-* Adobe XD
 * Microsoft Word
 * Microsoft Excel
+* Adobe XD
 
+## Features
 
-<!-- GETTING STARTED -->
-## Getting Started
+✅ **User Authentication:** Clients and IT staff can securely sign in to access the system, with varying levels of functionality based on their roles.
 
-By getting started with the project, first you need to take a look at the required `Prerequisites` and after that the `Installation` steps.
+✅ **Client Management:** View and manage client profiles, track their requests, and interact with ticket systems to resolve technical issues efficiently.
 
+✅ **Admin Tools:** Administrators can configure the system, manage users, set up categories, and monitor overall system health, ensuring smooth operations.
 
-### Prerequisites
+✅ **Ticketing System:** Clients can submit tickets, categorize issues, and monitor their status while IT staff can manage, assign, and resolve tickets quickly.
 
-In order to open this software project is required to have an Visual Modeling and Design Tool (Enterprise Architect), an UI/UX Design Tool (Adobe XD) and an Office Pack (Microsoft Word & Microsoft Excel).
+✅ **Categorized Issues:** Issues can be categorized for better organization and faster routing to appropriate support personnel.
 
+✅ **Reports & Analytics:** Generate detailed reports to monitor ticket progress, analyze performance metrics, and evaluate resolution times for continuous improvement.
 
-### Installation
+✅ **FAQs & Knowledge Base:** A self-service portal where clients can search for common issues and solutions, reducing the need for direct support and enhancing the customer experience.
 
-1. Download the code or Clone the repo:
-   ```terminal
+## Prerequisites
+
+Before starting, ensure that the following tools are installed on your system:
+- [Enterprise Architect](https://sparxsystems.com/products/ea/)
+  - Follow the [installation guide](https://sparxsystems.com/enterprise_architect_user_guide/17.0/getting_started/installea.html) to download, install and set it up correctly.
+  - Obtain a valid license or use the trial version for evaluation.
+- [Microsoft Office](https://www.microsoft.com/en-us/download/office)
+  - Follow the [installation guide](https://support.microsoft.com/en-us/office/download-install-or-reinstall-microsoft-365-office-2024-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) to download, install and set it up correctly.
+  - An active Microsoft 365 subscription or a standalone license for Office is required.
+- [Adobe XD](https://www.adobe.com/products/xd.html)
+  - Follow the [installation guide](https://helpx.adobe.com/support/xd.html#troubleshooting) to download, install and set it up correctly.
+  - An Adobe ID (either free or premium account) is required to access all features.
+
+## Installation
+
+1. Clone or download the repository to your local machine:
+   ```
    git clone https://github.com/ndriqimlahu/it-helpdesk-system.git
    ```
-2. Open the repo folder and explore into `Diagrams` & `Files` folder.
-3. After that select one of the tools mentioned above and use them to open the software project by choosing the `.eapx`, `.xd`, `.docx` and `.xlsx` files.
-4. Also if you want to run the prototype design of this software project as preview in the Adobe XD, then you need to click on play button which is on the top-right of bar.
+2. Navigate to the repository folder and explore the `Diagrams` and `Files` directories, which contain the project files.
+3. Open the project files using the appropriate tools:
+    - For **Enterprise Architect**: Open the `.eapx` files.
+    - For **Microsoft Office**: Open the `.docx` and `.xlsx` files.
+    - For **Adobe XD**: Open the `.xd` file.
+4. To run the design prototype, click the `Play` button located in the top-right corner of the Adobe XD interface.
 
+## Screenshots
 
-<!-- USAGE -->
-## Usage
+Below you can see some additional useful screenshots of what the project looks like and how it can be used:
 
-There you can see some useful additional screenshots of how the project looks like and how can be used.
+* Use Case Diagram | Class Diagram
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/01-Use%20Case%20Diagram.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/02-Class%20Diagram.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Use Case Diagram
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/01-Use%20Case%20Diagram.png">
+* Activity Diagram — Flow 1 | Activity Diagram — Flow 2
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.1-Activity%20Diagram%201.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.2-Activity%20Diagram%202.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Class Diagram
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/02-Class%20Diagram.png">
+* Sequence Diagram — Actor 1 | Sequence Diagram — Actor 2
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.1-Sequence%20Diagram-Actor%201.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.2-Sequence%20Diagram-Actor%202.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Activity Diagram 1
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.1-Activity%20Diagram%201.png">
+* Sequence Diagram — Super Admin | Sequence Diagram — System User
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.3-Sequence%20Diagram-Super%20Admin.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.4-Sequence%20Diagram-System%20User.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Activity Diagram 2
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/03.2-Activity%20Diagram%202.png">
+* Sequence Diagram — Client | Sequence Diagram — Users
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.5-Sequence%20Diagram-Client.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.6-Sequence%20Diagram-Users.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Sequence Diagram (Actor 1)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.1-Sequence%20Diagram-Actor%201.png">
+* State Diagram — Users | State Diagram — Tickets
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.1-State%20Diagram-Users.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.2-State%20Diagram-Tickets.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Sequence Diagram (Actor 2)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.2-Sequence%20Diagram-Actor%202.png">
+* State Diagram — Issues | CRUDE Analysis — CRUDE Matrix
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.3-State%20Diagram-Issues.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/06-CRUDE%20Analysis-CRUDE%20Matrix.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Sequence Diagram (Super Admin)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.3-Sequence%20Diagram-Super%20Admin.png">
+* Visual Presentation GUI — Home page | Select Categories page
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.1-Visual%20Presentation%20GUI-Homepage.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.2-Visual%20Presentation%20GUI-Select%20Categories.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Sequence Diagram (System User)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.4-Sequence%20Diagram-System%20User.png">
+* Visual Presentation GUI — Clients page | Tickets page
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.3-Visual%20Presentation%20GUI-Clients.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.4-Visual%20Presentation%20GUI-Tickets.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Sequence Diagram (Client)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.5-Sequence%20Diagram-Client.png">
+* Visual Presentation GUI — Issues page | Reports page
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.5-Visual%20Presentation%20GUI-Issues.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.6-Visual%20Presentation%20GUI-Reports.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Sequence Diagram (Users)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/04.6-Sequence%20Diagram-Users.png">
+* Visual Presentation GUI — FAQs page | Setup page
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.7-Visual%20Presentation%20GUI-FAQs.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.8-Visual%20Presentation%20GUI-Setup.png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* State Diagram (Users)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.1-State%20Diagram-Users.png">
+* Visual Presentation GUI — Submit done successfully
+<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.9-Visual%20Presentation%20GUI-Check%20Submit.png" align="top" width="48%" height="auto">
 
-* State Diagram (Tickets)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.2-State%20Diagram-Tickets.png">
-
-* State Diagram (Issues)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/05.3-State%20Diagram-Issues.png">
-
-* CRUDE Analysis (CRUDE Matrix)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/06-CRUDE%20Analysis-CRUDE%20Matrix.png">
-
-* Visual Presentation GUI (Home page)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.1-Visual%20Presentation%20GUI-Homepage.png">
-
-* Visual Presentation GUI (Select Categories)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.2-Visual%20Presentation%20GUI-Select%20Categories.png">
-
-* Visual Presentation GUI (Clients)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.3-Visual%20Presentation%20GUI-Clients.png">
-
-* Visual Presentation GUI (Tickets)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.4-Visual%20Presentation%20GUI-Tickets.png">
-
-* Visual Presentation GUI (Issues)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.5-Visual%20Presentation%20GUI-Issues.png">
-
-* Visual Presentation GUI (Reports)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.6-Visual%20Presentation%20GUI-Reports.png">
-
-* Visual Presentation GUI (FAQs)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.7-Visual%20Presentation%20GUI-FAQs.png">
-
-* Visual Presentation GUI (Setup)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.8-Visual%20Presentation%20GUI-Setup.png">
-
-* Visual Presentation GUI (Check Submit)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/it-helpdesk-system/main/Preview/07.9-Visual%20Presentation%20GUI-Check%20Submit.png">
-
-
-<!-- LICENSE -->
-## License
-
-See the `LICENSE` file for more information.
-
-
-<!-- SUPPORT -->
 ## Support
 
-Issues and feature requests are welcome!
-
-Give a ⭐️ if you liked this project!
-
-Support the author on <a href="https://www.buymeacoffee.com/ndriqimlahu">Buy Me a Coffee</a>
+If you find this project useful, please consider giving it a star!
